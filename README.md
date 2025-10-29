@@ -1,1 +1,1 @@
-# labnnour6.2
+# lab6
